@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="116743" started-at="2019-05-09T11:37:35Z" finished-at="2019-05-09T11:39:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="116743" started-at="2019-05-09T11:37:35Z" finished-at="2019-05-09T11:39:32Z">
+      <class name="salesforce.tests.LoginTest">
+        <test-method status="PASS" signature="Start()[pri:0, instance:salesforce.tests.LoginTest@2f7c7260]" name="Start" is-config="true" duration-ms="52677" started-at="2019-05-09T11:37:35Z" finished-at="2019-05-09T11:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method status="PASS" signature="verifyLoginPageTitle()[pri:0, instance:salesforce.tests.LoginTest@2f7c7260]" name="verifyLoginPageTitle" duration-ms="345" started-at="2019-05-09T11:38:28Z" finished-at="2019-05-09T11:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method status="PASS" signature="verifyLoginPageLogo()[pri:1, instance:salesforce.tests.LoginTest@2f7c7260]" name="verifyLoginPageLogo" duration-ms="167" started-at="2019-05-09T11:38:28Z" finished-at="2019-05-09T11:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageLogo -->
+        <test-method status="PASS" signature="verifyInvalidLogin()[pri:2, instance:salesforce.tests.LoginTest@2f7c7260]" name="verifyInvalidLogin" duration-ms="34919" started-at="2019-05-09T11:38:28Z" finished-at="2019-05-09T11:39:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+        <test-method status="PASS" signature="verifyValidLogin()[pri:3, instance:salesforce.tests.LoginTest@2f7c7260]" name="verifyValidLogin" duration-ms="27321" started-at="2019-05-09T11:39:03Z" finished-at="2019-05-09T11:39:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method status="PASS" signature="Stop()[pri:0, instance:salesforce.tests.LoginTest@2f7c7260]" name="Stop" is-config="true" duration-ms="1214" started-at="2019-05-09T11:39:31Z" finished-at="2019-05-09T11:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stop -->
+      </class> <!-- salesforce.tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

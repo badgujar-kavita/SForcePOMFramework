@@ -1,0 +1,9 @@
+salesforce\tests\LoginTest.class
+salesforce\commonfunctions\CommonResources.class
+salesforce\configfile\projectconfig.class
+salesforce\pages\loginPage.class
+salesforce\pages\LeadPage.class
+salesforce\pages\HeaderPage.class
+salesforce\pages\HomePage.class
+salesforce\tests\BaseTest.class
+salesforce\tests\LeadTest.class

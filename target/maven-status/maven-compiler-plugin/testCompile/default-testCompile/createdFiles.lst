@@ -1,0 +1,3 @@
+salesforce\tests\BaseTest.class
+salesforce\tests\LoginTest.class
+salesforce\tests\LeadTest.class
