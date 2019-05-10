@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="282777" started-at="2019-05-08T11:41:53Z" finished-at="2019-05-08T11:46:36Z">
+  <suite name="Default suite" duration-ms="68917" started-at="2019-05-10T14:23:58Z" finished-at="2019-05-10T14:25:07Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="282777" started-at="2019-05-08T11:41:53Z" finished-at="2019-05-08T11:46:36Z">
+    <test name="Default test" duration-ms="68917" started-at="2019-05-10T14:23:58Z" finished-at="2019-05-10T14:25:07Z">
       <class name="salesforce.tests.LoginTest">
-        <test-method status="PASS" signature="Start()[pri:0, instance:salesforce.tests.LoginTest@4ec6a292]" name="Start" is-config="true" duration-ms="132316" started-at="2019-05-08T17:11:53Z" finished-at="2019-05-08T17:14:06Z">
+        <test-method status="PASS" signature="Start()[pri:0, instance:salesforce.tests.LoginTest@16c0663d]" name="Start" is-config="true" duration-ms="40745" started-at="2019-05-10T19:53:58Z" finished-at="2019-05-10T19:54:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Start -->
-        <test-method status="PASS" signature="verifyLoginPageTitle()[pri:0, instance:salesforce.tests.LoginTest@4ec6a292]" name="verifyLoginPageTitle" duration-ms="447" started-at="2019-05-08T17:14:06Z" finished-at="2019-05-08T17:14:06Z">
+        <test-method status="PASS" signature="verifyLoginPageTitle()[pri:0, instance:salesforce.tests.LoginTest@16c0663d]" name="verifyLoginPageTitle" duration-ms="306" started-at="2019-05-10T19:54:39Z" finished-at="2019-05-10T19:54:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPageTitle -->
-        <test-method status="PASS" signature="verifyLoginPageLogo()[pri:1, instance:salesforce.tests.LoginTest@4ec6a292]" name="verifyLoginPageLogo" duration-ms="58766" started-at="2019-05-08T17:14:06Z" finished-at="2019-05-08T17:15:05Z">
+        <test-method status="PASS" signature="verifyLoginPageLogo()[pri:1, instance:salesforce.tests.LoginTest@16c0663d]" name="verifyLoginPageLogo" duration-ms="101" started-at="2019-05-10T19:54:39Z" finished-at="2019-05-10T19:54:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPageLogo -->
-        <test-method status="PASS" signature="verifyInvalidLogin()[pri:2, instance:salesforce.tests.LoginTest@4ec6a292]" name="verifyInvalidLogin" duration-ms="6121" started-at="2019-05-08T17:15:05Z" finished-at="2019-05-08T17:15:11Z">
+        <test-method status="PASS" signature="verifyInvalidLogin()[pri:2, instance:salesforce.tests.LoginTest@16c0663d]" name="verifyInvalidLogin" duration-ms="4101" started-at="2019-05-10T19:54:39Z" finished-at="2019-05-10T19:54:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyInvalidLogin -->
-        <test-method status="PASS" signature="verifyValidLogin()[pri:3, instance:salesforce.tests.LoginTest@4ec6a292]" name="verifyValidLogin" duration-ms="24916" started-at="2019-05-08T17:15:11Z" finished-at="2019-05-08T17:15:36Z">
+        <test-method status="PASS" signature="verifyValidLogin()[pri:3, instance:salesforce.tests.LoginTest@16c0663d]" name="verifyValidLogin" duration-ms="22718" started-at="2019-05-10T19:54:43Z" finished-at="2019-05-10T19:55:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyValidLogin -->
-        <test-method status="PASS" signature="Stop()[pri:0, instance:salesforce.tests.LoginTest@4ec6a292]" name="Stop" is-config="true" duration-ms="60144" started-at="2019-05-08T17:15:36Z" finished-at="2019-05-08T17:16:36Z">
+        <test-method status="PASS" signature="Stop()[pri:0, instance:salesforce.tests.LoginTest@16c0663d]" name="Stop" is-config="true" duration-ms="909" started-at="2019-05-10T19:55:06Z" finished-at="2019-05-10T19:55:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Stop -->
