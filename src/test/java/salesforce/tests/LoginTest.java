@@ -13,7 +13,7 @@ import salesforce.commonfunctions.CommonResources;
 import salesforce.configfile.projectconfig;
 import salesforce.pages.HomePage;
 import salesforce.pages.loginPage;
-
+//Login Test Class
 public class LoginTest extends BaseTest {
 
 	@BeforeClass(alwaysRun = true)
