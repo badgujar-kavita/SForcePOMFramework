@@ -15,7 +15,7 @@ import salesforce.pages.HomePage;
 import salesforce.pages.loginPage;
 //Login Test Class
 public class LoginTest extends BaseTest {
-
+//launch the chrome driver and open browser
 	@BeforeClass(alwaysRun = true)
 	public void Start() {
 		createReport();
